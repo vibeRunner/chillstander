@@ -4,7 +4,7 @@
 
 # TODO: maybe add config file?
 # - which type o' password preferred: totally random or words?
-# - where database and where key?
+# - where file and where key?
 # - set if you'd rather have the password printed or copied to clipboard
 
 # TODO: add PIN for extra security measure
