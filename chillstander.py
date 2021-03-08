@@ -20,7 +20,7 @@ f = faker.Faker()
 
 def get_key():
 	
-	key_location = '/Volumes/T7/files/private/memories/key.txt'
+	key_location = '[EDIT ME!!!]'
 
 	try:
 
