@@ -52,7 +52,7 @@ def generate_key():
 	print('Update file path in the script!\n')
 
 	try:
-		input('Press [ENTER] when you read this.')
+		input('Press [ENTER] when you finish reading.')
 	except:
 		pass
 
