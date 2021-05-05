@@ -1,5 +1,6 @@
 # chillstander
 simplistic python password manager. is it secure enough though?
+no, just use KeePassXC or something
 
 ## what it does?
 The program uses Fernet from cryptography Python module to decrypt a file storing usernames, passwords and website names. I highly recommend storing the key on a removable
